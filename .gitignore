@@ -1,0 +1,9 @@
+.idea/
+target/
+dbconfig.properties
+log4j.properties
+sysConfig.properties
+*.iml
+.DS_Store
+jeecg_config.properties
+jeecg_database.properties

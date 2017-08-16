@@ -1,8 +1,8 @@
 #mysql 
 diver_name=com.mysql.jdbc.Driver
 url=jdbc:mysql://localhost:3306/jeecg?useUnicode=true&characterEncoding=UTF-8
-username=octopus
-password=octopus
+username=root
+password=root
 database_name=jeecg
 
 #oracle
@@ -19,7 +19,7 @@ database_name=jeecg
 #password=postgres
 #database_name=jeecg
 
-#SQLServer2005\u4EE5\u4E0A
+#SQLServer2005\u4ee5\u4e0a
 #diver_name=org.hibernate.dialect.SQLServerDialect
 #url=jdbc:sqlserver://192.168.0.199:1697;DatabaseName=jeecg
 #username=sa

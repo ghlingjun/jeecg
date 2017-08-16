@@ -5,10 +5,10 @@ templatepath=docTemp
 #
 uploadpath=upload
 
-webUploadpath=/Users/ethan/logs/jeecg/upFiles
+webUploadpath=D://upFiles
 showAndDownUrl=systemController/showOrDownByurl.do?dbPath=
 
-office_home=/Users/ethan/logs/jeecg/OpenOffice
+office_home=D://OpenOffice
 
 
 #DEV(\u5F00\u53D1\u6A21\u5F0F)/PUB(\u751F\u4EA7\u6A21\u5F0F)
